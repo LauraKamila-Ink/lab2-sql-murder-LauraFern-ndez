@@ -1,11 +1,13 @@
-# Laboratorio Número II: SQL Murder Mystery
+![Banner Principal](separadores/Banner.png)
+
+# Laboratorio II: SQL Murder Mystery
 
 ## Perfil de Investigador
 * **Detective a cargo del caso:** Laura Camila Fernández Ospina
 * **Identificación:** 2026-1 SQL DEPT
 * **Departamento:** Unidad Inteligencia de Datos en SQL City
 
----
+![Banner Principal](separadores/Separador.png)
 
 ## Resumen Inicial del Caso
 
