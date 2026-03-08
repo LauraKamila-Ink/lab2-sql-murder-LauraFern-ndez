@@ -53,7 +53,7 @@ Realicé una búsqueda por nombre y calle para localizar a la segunda testigo.
 ### Paso 3: Interrogatorio de los Testigos
 Consulté la tabla `interview` utilizando los IDs de Morty y Annabel para obtener sus declaraciones oficiales.
 
-![Entrevista a testigos](evidencia/image_7136a2.png)
+![Entrevista a testigos](evidencia/Paso3.png)
 
 **Pistas recolectadas:**
 * El sospechoso es miembro **Gold** del gimnasio "Get Fit Now".
