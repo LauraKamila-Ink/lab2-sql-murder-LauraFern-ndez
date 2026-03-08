@@ -6,3 +6,18 @@ WHERE date = 20180115
   AND type = 'murder';
 
 
+-- Paso 2: Segun lo que salio en la vista ya se puede investigar a los testigos
+-- Testigo 1: Vive en la última casa de Northwestern Dr.
+
+SELECT * FROM person 
+WHERE address_street_name = 'Northwestern Dr' 
+ORDER BY address_number DESC 
+LIMIT 1;
+
+-- Testigo 2: Annabel en Franklin Ave.
+
+SELECT * FROM person 
+WHERE name LIKE 'Annabel%' 
+  AND address_street_name = 'Franklin Ave';
+
+  
