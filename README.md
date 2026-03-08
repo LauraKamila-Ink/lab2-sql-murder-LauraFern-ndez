@@ -23,7 +23,7 @@
 ### Paso 1: Análisis de la Escena del Crimen
 Se inició la investigación consultando el reporte de la policía de **SQL City** para el día del incidente. Esto nos revela la siguiente información:
 
-![Reporte de la Escena](evidencia/Paso1.png)
+![Reporte de la Escena el dia del crimen](evidencia/Paso1.png)
 
 > **Hallazgo:** El reporte indica que hubo dos testigos. El primero el cual nombre no se sabe, vive en la última casa de "Northwestern Dr" y la segunda se llama Annabel y vive en "Franklin Ave".
 
@@ -60,3 +60,21 @@ Consulté la tabla `interview` utilizando los IDs de Morty y Annabel para obtene
 * Su número de membresía comienza con **48Z**.
 * El sospechoso huyó en un vehículo con placa que contiene **H42W**.
 * Fue visto en el gimnasio el día **9 de enero de 2018**.
+
+![Separador2](separadores/Separador2.png)
+
+### Paso 4: Pistas del Gimnasio
+Al buscar las personas que estan relacionadas o pertenecen al los miembros **Gold** del gimnasio, encontramos dos sospechosos:
+
+![Sospechosos del gimnasio](evidencia/Paso4.png)
+
+**Sospechoso 1:
+
+* **Nombre:** Joe Germuska
+* **ID:** 48Z7A
+
+**Sospechoso 2:
+
+* **Nombre:** Jeremy Bowers	
+* **ID:** 48Z55
+

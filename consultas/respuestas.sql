@@ -24,3 +24,9 @@ WHERE name LIKE 'Annabel%'
 
 SELECT * FROM interview 
 WHERE person_id IN (14887, 16371);  
+
+--- Paso 4: Buscando al sospechoso segun la pista del gimnasio
+
+SELECT * FROM get_fit_now_member 
+WHERE membership_status = 'gold' 
+  AND id LIKE '48Z%';
