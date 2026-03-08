@@ -20,4 +20,7 @@ SELECT * FROM person
 WHERE name LIKE 'Annabel%' 
   AND address_street_name = 'Franklin Ave';
 
-  
+--- Paso 3: Investigar las declaraciones de los testigos
+
+SELECT * FROM interview 
+WHERE person_id IN (14887, 16371);  

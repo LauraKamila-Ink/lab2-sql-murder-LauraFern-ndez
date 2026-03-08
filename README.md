@@ -27,7 +27,7 @@ Se inició la investigación consultando el reporte de la policía de **SQL City
 
 > **Hallazgo:** El reporte indica que hubo dos testigos. El primero el cual nombre no se sabe, vive en la última casa de "Northwestern Dr" y la segunda se llama Annabel y vive en "Franklin Ave".
 
----
+![Separador2](separadores/Separador2.png)
 
 ### Paso 2: Identificación de Testigos
 Utilizando las pistas del reporte, procedí a buscar los nombres de las personas y los ID en la tabla `person`. Asi se pudo encontrar la siguiente información:
@@ -47,3 +47,16 @@ Realicé una búsqueda por nombre y calle para localizar a la segunda testigo.
 
 * **Nombre:** Annabel Miller
 * **ID:** 16371
+
+![Separador2](separadores/Separador2.png)
+
+### Paso 3: Interrogatorio de los Testigos
+Consulté la tabla `interview` utilizando los IDs de Morty y Annabel para obtener sus declaraciones oficiales.
+
+![Entrevista a testigos](evidencia/image_7136a2.png)
+
+**Pistas recolectadas:**
+* El sospechoso es miembro **Gold** del gimnasio "Get Fit Now".
+* Su número de membresía comienza con **48Z**.
+* El sospechoso huyó en un vehículo con placa que contiene **H42W**.
+* Fue visto en el gimnasio el día **9 de enero de 2018**.
