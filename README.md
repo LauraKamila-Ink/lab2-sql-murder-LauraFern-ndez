@@ -80,3 +80,14 @@ Al buscar las personas que estan relacionadas o pertenecen al los miembros **Gol
 * **Nombre:** Jeremy Bowers	
 * **ID:** 48Z55
 
+![Separador2](separadores/Separador2.png)
+
+### Paso 5: Asistencia al gimnasio el dia del crimen
+
+Al revisar que tenemos dos sospechosos diferentes, se opto por revisar la asistencia al gimnasio con aquella membresia el mismo dia del crimen, aqui nos encontramos con que las mismas dos personas anteriormente mencionadas habian asistido ese dia.
+
+![Asistencia al gimnasio](evidencia/Paso5.png)
+
+> **Nota importante:** Para este paso, nos estancamos en dos sospechosos, pero hay que tener que tenemos en posecion una pista mas acerca del asesinato, en este caso, el asesino se fue en un auto que contiene lo siguiente en su placa *H42W*.
+
+

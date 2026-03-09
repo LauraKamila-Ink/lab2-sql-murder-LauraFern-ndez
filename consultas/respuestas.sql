@@ -30,3 +30,11 @@ WHERE person_id IN (14887, 16371);
 SELECT * FROM get_fit_now_member 
 WHERE membership_status = 'gold' 
   AND id LIKE '48Z%';
+
+--- Paso 5: Asistencia al gimnasio el dia del crimen
+
+SELECT membership_id, check_in_date 
+FROM get_fit_now_check_in 
+WHERE check_in_date = 20180109 
+  AND membership_id LIKE '48Z%';        
+
