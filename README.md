@@ -113,5 +113,24 @@ Ahora que gran parte de nuestra información nos da una coincidencia con una per
 
 ![Informacion del Asesino](evidencia/Paso7.png)
 
+![Separador2](separadores/Separador2.png)
+
+### Paso 8: Testimonio del Presunto Asesino
+
+Antes de cerrar la investigación, quería saber qué información o diálogo nos tenía que dar Jeremy Bowers, por lo que su testimonio era el siguiente:
+
+![Testimonio del presunto Asesino](evidencia/Paso8.png)
+
+> Testimonio de Jeremy: "Me contrató una mujer con mucho dinero. No sé su nombre, pero sé que mide entre 1,65 y 1,70 m. Es pelirroja y conduce un Tesla Model S. Sé que asistió al concierto sinfónico de SQL tres veces en diciembre de 2017."
+
+El asesino es Jeremy Bower, que acepto que fue el criminal en nuestro caso, pero también hay otra persona detrás de esto. El caso durará hasta que encontremos a la mujer que contrató a Jeremy, así que por ahora tenemos las siguientes pistas:
+
+* **Altura:** Mide entre 1,65 y 1,70 m
+* **Sexo:** Mujer
+* **Cabello:** Es peliroja
+* **Vehiculo:** Conduce un Tesla Model S
+* **Actividades:** Asistió al concierto sinfónico de SQL tres veces en diciembre de 2017
+
+
 
 
