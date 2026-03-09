@@ -87,3 +87,16 @@ WHERE dl.hair_color = 'red'
   AND fb.date LIKE '201712%'
 GROUP BY p.name;      
 
+--- Paso 10: Cierre del caso
+
+--- Asesino: Jeremy Bowers
+INSERT INTO solution VALUES (1, 'Jeremy Bowers');
+        
+        SELECT value FROM solution;
+
+--- Mente maestra: Miranda Priestly
+
+INSERT INTO solution VALUES (1, 'Miranda Priestly');
+        
+        SELECT value FROM solution;
+
