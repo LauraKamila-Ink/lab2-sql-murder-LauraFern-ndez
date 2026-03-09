@@ -45,4 +45,19 @@ FROM person p
 JOIN drivers_license dl ON p.license_id = dl.id
 WHERE dl.plate_number LIKE '%H42W%';   
 
+--- Paso 7: Identificar al Asesino
 
+SELECT 
+    p.id, 
+    p.name, 
+    g.membership_status, 
+    p.license_id, 
+    dl.plate_number
+FROM person p
+JOIN get_fit_now_member g ON p.id = g.person_id
+JOIN drivers_license dl ON p.license_id = dl.id
+WHERE g.membership_status = 'gold' 
+  AND g.id LIKE '48Z%' 
+  AND dl.plate_number LIKE '%H42W%'; 
+
+  

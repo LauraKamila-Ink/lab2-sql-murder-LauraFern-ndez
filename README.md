@@ -105,3 +105,13 @@ Considerando que ya disponíamos de información de la placa, procedemos a inves
 > [!IMPORTANT]
 > Con toda la información recolectada, podemos establecer una coincidencia entre la identificación y el individuo: *Jeremy Bowers* está en nuestra lista de sospechosos al ser un sujeto que asistió al gimnasio el día del asesinato, lo cual coincide con la bolsa que llevaba y ahora coincide que huyó en un vehiculo que contiene en su placa la otra pista del testigo.
 
+![Separador2](separadores/Separador2.png)
+
+### Paso 7: Identificar al Asesino
+
+Ahora que gran parte de nuestra información nos da una coincidencia con una persona, vamos a reunir todas las pistas en una sola búsqueda a través de nuestra base de datos para confirmar la identidad del culpable. Esto nos revela lo siguiente: 
+
+![Informacion del Asesino](evidencia/Paso7.png)
+
+
+
