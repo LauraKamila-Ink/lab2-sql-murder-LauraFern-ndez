@@ -38,3 +38,11 @@ FROM get_fit_now_check_in
 WHERE check_in_date = 20180109 
   AND membership_id LIKE '48Z%';        
 
+--- Paso 6: Buscar registros de placa
+
+SELECT p.name, dl.plate_number, p.id AS person_id
+FROM person p
+JOIN drivers_license dl ON p.license_id = dl.id
+WHERE dl.plate_number LIKE '%H42W%';   
+
+
