@@ -131,6 +131,17 @@ El asesino es Jeremy Bower, que acepto que fue el criminal en nuestro caso, pero
 * **Vehiculo:** Conduce un Tesla Model S
 * **Actividades:** Asistió al concierto sinfónico de SQL tres veces en diciembre de 2017
 
+![Separador2](separadores/Separador2.png)
+
+### Paso 9: Desenmascarar a la Verdadera Culpable
+
+Para esta etapa, si deseamos encontrar a la mujer que contrató a Jeremy, solo es necesario recopilar todas las pistas en la base de datos .Podríamos explorar o llevar a cabo múltiples búsquedas sobre individuos con cabello rojizo o quienes conducen un Tesla, pero Jeremy nos proporcionó datos muy precisos sobre la mujer, así que realizaremos una única búsqueda con toda la información .Para nuestra sorpresa, la única persona en la lista es:
+
+![Verdadera Culpable](evidencia/Paso9.png)
+
+
+
+
 
 
 

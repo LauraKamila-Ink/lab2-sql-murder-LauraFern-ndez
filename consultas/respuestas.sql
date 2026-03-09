@@ -60,4 +60,30 @@ WHERE g.membership_status = 'gold'
   AND g.id LIKE '48Z%' 
   AND dl.plate_number LIKE '%H42W%'; 
 
-  
+--- Paso 8: Revisar Testimonio del Asesino
+
+SELECT transcript 
+FROM interview 
+WHERE person_id = 67318; 
+
+--- Paso 9: Paso 9: Desenmascarar a la Verdadera Culpable
+
+SELECT 
+    p.name, 
+    dl.hair_color, 
+    dl.height, 
+    dl.car_make, 
+    dl.car_model, 
+    fb.event_name, 
+    COUNT(*) AS veces_asistidas
+FROM person p
+JOIN drivers_license dl ON p.license_id = dl.id
+JOIN facebook_event_checkin fb ON p.id = fb.person_id
+WHERE dl.hair_color = 'red'
+  AND dl.height BETWEEN 65 AND 67
+  AND dl.car_make = 'Tesla'
+  AND dl.car_model = 'Model S'
+  AND fb.event_name = 'SQL Symphony Concert'
+  AND fb.date LIKE '201712%'
+GROUP BY p.name;      
+
