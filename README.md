@@ -139,6 +139,24 @@ Para esta etapa, si deseamos encontrar a la mujer que contrató a Jeremy, solo e
 
 ![Verdadera Culpable](evidencia/Paso9.png)
 
+![Separador1](separadores/Separador.png)
+
+## Cierre del Caso
+
+Todo este extenso estudio nos condujo a la responsable y a su cómplice, verificando que hemos hallado a los auténticos culpables del asunto de SQL City.
+
+* **Asesino:** Jeremy Bowers
+
+![Jeremy Bowers](evidencia/Paso10.png)
+
+* **Mente Maestra:** Miranda Priestly
+
+![Miranda Priestly](evidencia/Paso10_2.png)
+
+![Banner Final](separadores/Banner_Final.png)
+
+
+
 
 
 
